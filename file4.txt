@@ -1,2 +1,4 @@
 
 this is anew file
+hi
+hellooo
